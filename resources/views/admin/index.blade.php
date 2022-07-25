@@ -1,0 +1,1 @@
+<x-admin-layout>Welcom to Admin panel</x-admin-layout>
